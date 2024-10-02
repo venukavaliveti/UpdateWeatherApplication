@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Venuka Valiveti on 28/09/24.
+  
+*/
+"Weather App" = "Wetter-App";
+"OpenWeather" = "OffenesWetter";
+"Weather forecasts, nowcasts and \n history in a fast and elegant way"  = "Wettervorhersagen, Nowcasts und Verlauf auf schnelle und elegante Weise";
+"Search City" = "Stadt suchen";
+"Search" = "Suchen";
